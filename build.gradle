@@ -1,0 +1,42 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.2.2'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+android {
+    compileSdkVersion 32
+    buildToolsVersion "32.0.0"
+
+    defaultConfig {
+        minSdkVersion 24
+        targetSdkVersion 32
+
+        versionName "1.0.0"
+        versionCode 100
+        applicationId "com.kakao.talk.theme.anne01"
+
+        sourceSets {
+            main.res.srcDirs += 'src/main/theme'
+            main.res.srcDirs += 'src/main/theme-adv'
+        }
+    }
+
+    buildFeatures {
+        viewBinding = true
+    }
+}

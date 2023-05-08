@@ -1,0 +1,10 @@
+com.kakao.talk.theme.apeach-pngs-0 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\build\generated\res\pngs\release
+com.kakao.talk.theme.apeach-resValues-1 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\build\generated\res\resValues\release
+com.kakao.talk.theme.apeach-rs-2 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\build\generated\res\rs\release
+com.kakao.talk.theme.apeach-mergeReleaseResources-3 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.kakao.talk.theme.apeach-mergeReleaseResources-4 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.kakao.talk.theme.apeach-merged_res-5 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\build\intermediates\merged_res\release
+com.kakao.talk.theme.apeach-main-6 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\res
+com.kakao.talk.theme.apeach-main-7 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\theme
+com.kakao.talk.theme.apeach-main-8 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\theme-adv
+com.kakao.talk.theme.apeach-release-9 C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\release\res

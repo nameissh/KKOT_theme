@@ -1,0 +1,4 @@
+#Wed Apr 26 14:18:36 KST 2023
+base.0=C\:\\Users\\sehaa\\Desktop\\self_study\\kakao_theme\\Android_Sample_Theme_220928\\apeach-9.9.5-source\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

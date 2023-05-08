@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source"
+    name=":"
+    type="APP"
+    maven=":apeach-9.9.5-source:"
+    gradle="7.2.2"
+    buildFolder="build"
+    bootClassPath="C:\Users\sehaa\AppData\Local\Android\Sdk\platforms\android-32\android.jar;C:\Users\sehaa\AppData\Local\Android\Sdk\build-tools\32.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

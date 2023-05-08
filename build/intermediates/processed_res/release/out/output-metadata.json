@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.kakao.talk.theme.anne01",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 100,
+      "versionName": "1.0.0",
+      "outputFile": "resources-release.ap_"
+    }
+  ],
+  "elementType": "File"
+}

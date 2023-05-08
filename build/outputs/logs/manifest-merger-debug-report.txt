@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\sehaa\.gradle\caches\transforms-3\66bb60b643116b231a5ace677e464178\transformed\viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.kakao.talk.v2.theme
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:6:5-63
+	android:name
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:6:22-60
+queries
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:8:5-10:15
+package#com.kakao.talk
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:9:9-50
+	android:name
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:9:18-47
+application
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:12:5-39:19
+	android:label
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:13:9-35
+meta-data#android.max_aspect
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:18:9-20:35
+	android:value
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:20:13-32
+	android:name
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:19:13-46
+activity#com.kakao.talk.theme.apeach.MainActivity
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:22:9-37:20
+	android:excludeFromRecents
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:24:13-46
+	android:launchMode
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:26:13-43
+	android:exported
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:31:27-74
+intent-filter#action:name:com.kakao.talk.theme.action.MAIN
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:33:13-35:29
+action#com.kakao.talk.theme.action.MAIN
+ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:34:17-75
+	android:name
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml:34:25-72
+uses-sdk
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\sehaa\.gradle\caches\transforms-3\66bb60b643116b231a5ace677e464178\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\sehaa\.gradle\caches\transforms-3\66bb60b643116b231a5ace677e464178\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sehaa\Desktop\self_study\kakao_theme\Android_Sample_Theme_220928\apeach-9.9.5-source\src\main\AndroidManifest.xml
